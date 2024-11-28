@@ -16,6 +16,8 @@ Some of the main features include:
 
 ### Demo
 <img src="https://github.com/Shakil281@/Flix-Kotlin/blob/master/flix_walkthrough.gif" width=250><br>
+![flix_walkthrough](https://github.com/user-attachments/assets/24640199-ffeb-4321-9a96-7d9c10bece37)
+
 
 ## Installation
 
