@@ -1,3 +1,4 @@
+![flix_walkthrough](https://github.com/user-attachments/assets/0e50d5f4-c1db-4d12-ab1b-307632aaf5d7)
 
 # Flixstar
 Flix is an Android app using Kotlin that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
