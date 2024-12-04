@@ -1,4 +1,4 @@
-# Flixstar
+# Flixstar*
 Flixstar is an Android app using Kotlin that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Table of Contents
